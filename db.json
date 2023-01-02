@@ -1,5 +1,46 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Hubert Green",
+      "id": 2
+    },
+    {
+      "name": "Mrs. Katrina Witting I",
+      "id": 3
+    },
+    {
+      "name": "Cristina Macejkovic",
+      "id": 4
+    },
+    {
+      "name": "Erma Champlin",
+      "id": 5
+    },
+    {
+      "name": "Flora Mertz DVM",
+      "id": 6
+    },
+    {
+      "name": "Sylvia Blick",
+      "id": 7
+    },
+    {
+      "name": "Alexis Schmidt",
+      "id": 8
+    },
+    {
+      "name": "Gilbert Klocko",
+      "id": 9
+    },
+    {
+      "name": "Ollie McLaughlin",
+      "id": 10
+    }
+  ],
   "albums": [],
   "photos": []
 }
