@@ -17,4 +17,4 @@ const pause = (duration) => {
     });
 }
 
-export { fetchUsers };
+export { fetchUsers, pause };
