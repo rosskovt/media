@@ -37,6 +37,67 @@
       "id": 16
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 5,
+      "title": "hiking trip",
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "title": "Handmade Fresh Sausages",
+      "id": 5
+    },
+    {
+      "userId": 7,
+      "title": "Recycled Frozen Keyboard",
+      "id": 8
+    },
+    {
+      "userId": 10,
+      "title": "Small Granite Sausages",
+      "id": 9
+    },
+    {
+      "userId": 7,
+      "title": "Practical Bronze Sausages",
+      "id": 10
+    },
+    {
+      "userId": 10,
+      "title": "Licensed Steel Mouse",
+      "id": 11
+    },
+    {
+      "userId": 10,
+      "title": "Gorgeous Cotton Cheese",
+      "id": 14
+    },
+    {
+      "userId": 10,
+      "title": "Rustic Soft Bike",
+      "id": 15
+    },
+    {
+      "userId": 12,
+      "title": "Gorgeous Plastic Towels",
+      "id": 16
+    },
+    {
+      "userId": 13,
+      "title": "Licensed Cotton Sausages",
+      "id": 17
+    },
+    {
+      "userId": 13,
+      "title": "Recycled Metal Towels",
+      "id": 18
+    },
+    {
+      "userId": 5,
+      "title": "Sleek Wooden Bike",
+      "id": 19
+    }
+  ],
   "photos": []
 }

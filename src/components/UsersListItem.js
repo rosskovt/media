@@ -26,7 +26,7 @@ function UsersListItem({ user }) {
         <ExpandablePanel header={header}>
             <AlbumsList user={user} />
         </ExpandablePanel>
-    )
+    );
 }
 
 export default UsersListItem;
