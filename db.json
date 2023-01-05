@@ -99,5 +99,26 @@
       "id": 19
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 8,
+      "title": "Bespoke Steel Sausages",
+      "id": 7
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=79780",
+      "id": 11
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87301",
+      "id": 12
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=50106",
+      "id": 13
+    }
+  ]
 }
