@@ -1,4 +1,5 @@
 import { faker } from '@faker-js/faker';
+//IMPORTANT TO IMPORT FROM '@reduxjs/toolkit/query/react'; and NOT from '@reduxjs/toolkit/query'; !!!
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 //DEV only

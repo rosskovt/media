@@ -17,7 +17,8 @@ export const store = configureStore({
         return getDefaultMiddleware()
             .concat(albumsApi.middleware)
             .concat(photosApi.middleware);
-    }
+    },
+    devTools: true,
 });
 
 setupListeners(store.dispatch);

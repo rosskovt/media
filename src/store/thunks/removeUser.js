@@ -7,6 +7,8 @@ const removeUser = createAsyncThunk('users/remove', async (user) => {
 
     await pause(1000);
 
+    //MAKE sure to return manually user's id as DELETE in JSON server returns an empty object. 
+    //Return user or user.id
     return {
         response: response.data,
         id: user.id
